@@ -1,0 +1,501 @@
+Date,Time,Drug_Class,Patient_Type,Wait_Time_Mins,Copay,Status,Pharmacist_ID
+2025-01-08,11:30,Antibiotics,New,9,10.0,Approved,RPH03
+2025-01-03,11:15,Pain Management,New,29,5.0,Pending Prior Auth,RPH01
+2025-01-08,15:00,Antibiotics,New,23,10.0,Approved,RPH04
+2025-01-09,10:15,Cardiovascular,Refill,11,10.0,Approved,RPH03
+2025-01-04,13:30,Antibiotics,New,16,10.0,Approved,RPH04
+2025-01-03,16:45,Pain Management,New,33,5.0,Pending Prior Auth,RPH04
+2025-01-02,11:30,Diabetes,New,17,25.0,Rejected,RPH01
+2025-01-09,15:15,Cardiovascular,New,25,10.0,Approved,RPH04
+2025-01-07,12:15,Cardiovascular,Refill,27,0.0,Approved,RPH03
+2025-01-15,14:00,Cardiovascular,New,13,0.0,Approved,RPH02
+2025-01-27,08:30,Diabetes,New,18,25.0,Approved,RPH02
+2025-01-07,15:45,Antibiotics,New,17,15.0,Approved,RPH03
+2025-01-08,16:45,Cardiovascular,Refill,22,10.0,Approved,RPH02
+2025-01-08,10:00,Pain Management,Refill,47,5.0,Approved,RPH03
+2025-01-21,10:30,Antibiotics,New,18,15.0,Approved,RPH02
+2025-01-18,08:00,Pain Management,Refill,58,5.0,Pending Prior Auth,RPH03
+2025-01-10,14:45,Diabetes,Refill,13,25.0,Approved,RPH01
+2025-01-28,12:45,Diabetes,New,28,25.0,Approved,RPH01
+2025-01-25,10:30,Cardiovascular,New,22,0.0,Approved,RPH03
+2025-01-04,13:45,Diabetes,Refill,17,25.0,Approved,RPH01
+2025-01-24,15:45,Cardiovascular,New,31,0.0,Approved,RPH01
+2025-01-18,10:30,Cardiovascular,New,13,10.0,Approved,RPH04
+2025-01-13,13:45,Cardiovascular,New,19,10.0,Approved,RPH03
+2025-01-03,13:15,Antibiotics,New,5,10.0,Approved,RPH02
+2025-01-23,08:45,Cardiovascular,New,12,0.0,Approved,RPH01
+2025-01-17,11:45,Antibiotics,Refill,13,10.0,Approved,RPH01
+2025-01-26,15:30,Cardiovascular,Refill,30,10.0,Approved,RPH02
+2025-01-22,14:45,Cardiovascular,New,16,10.0,Approved,RPH01
+2025-01-22,09:30,Pain Management,Refill,18,5.0,Approved,RPH01
+2025-01-07,11:00,Diabetes,New,25,25.0,Approved,RPH02
+2025-01-15,11:45,Pain Management,New,19,5.0,Approved,RPH03
+2025-01-03,11:45,Antibiotics,New,10,15.0,Approved,RPH01
+2025-01-06,14:00,Cardiovascular,Refill,5,10.0,Approved,RPH01
+2025-01-14,16:45,Diabetes,Refill,29,25.0,Approved,RPH03
+2025-01-07,08:45,Cardiovascular,New,23,0.0,Approved,RPH03
+2025-01-19,15:30,Diabetes,New,24,25.0,Rejected,RPH01
+2025-01-28,10:45,Cardiovascular,New,7,0.0,Approved,RPH01
+2025-01-29,17:00,Cardiovascular,Refill,12,0.0,Approved,RPH01
+2025-01-30,12:00,Antibiotics,Refill,11,15.0,Approved,RPH03
+2025-01-05,12:45,Cardiovascular,Refill,19,10.0,Approved,RPH04
+2025-01-20,17:00,Antibiotics,New,8,10.0,Approved,RPH04
+2025-01-29,09:00,Diabetes,New,15,25.0,Approved,RPH03
+2025-01-20,16:15,Cardiovascular,Refill,5,10.0,Approved,RPH03
+2025-01-04,09:30,Antibiotics,New,22,15.0,Approved,RPH03
+2025-01-22,12:00,Cardiovascular,Refill,21,10.0,Approved,RPH02
+2025-01-21,14:45,Diabetes,New,16,25.0,Approved,RPH01
+2025-01-06,15:00,Diabetes,New,25,25.0,Approved,RPH03
+2025-01-29,10:15,Antibiotics,New,22,15.0,Approved,RPH01
+2025-01-02,12:45,Cardiovascular,Refill,16,0.0,Approved,RPH02
+2025-01-22,09:30,Diabetes,New,19,25.0,Approved,RPH02
+2025-01-28,10:30,Pain Management,New,26,5.0,Rejected,RPH02
+2025-01-26,14:30,Antibiotics,New,12,10.0,Approved,RPH03
+2025-01-08,11:00,Pain Management,New,44,5.0,Approved,RPH04
+2025-01-22,11:00,Cardiovascular,New,17,10.0,Approved,RPH01
+2025-01-12,16:00,Diabetes,New,20,25.0,Approved,RPH03
+2025-01-29,12:00,Diabetes,New,13,25.0,Approved,RPH01
+2025-01-20,14:45,Diabetes,New,19,25.0,Approved,RPH01
+2025-01-13,17:00,Diabetes,Refill,14,25.0,Approved,RPH01
+2025-01-12,14:45,Pain Management,New,19,5.0,Rejected,RPH02
+2025-01-24,12:45,Diabetes,Refill,24,25.0,Approved,RPH01
+2025-01-23,12:30,Pain Management,Refill,50,5.0,Approved,RPH04
+2025-01-20,17:00,Pain Management,Refill,34,5.0,Approved,RPH02
+2025-01-07,14:45,Antibiotics,Refill,23,15.0,Approved,RPH03
+2025-01-22,11:15,Pain Management,Refill,47,5.0,Approved,RPH04
+2025-01-17,17:45,Cardiovascular,New,15,0.0,Approved,RPH03
+2025-01-26,11:00,Cardiovascular,Refill,9,0.0,Approved,RPH02
+2025-01-20,09:00,Antibiotics,New,19,10.0,Approved,RPH04
+2025-01-08,10:15,Pain Management,Refill,56,5.0,Pending Prior Auth,RPH04
+2025-01-06,16:15,Antibiotics,Refill,19,10.0,Approved,RPH02
+2025-01-26,15:15,Antibiotics,Refill,21,15.0,Rejected,RPH02
+2025-01-29,10:30,Pain Management,Refill,62,5.0,Rejected,RPH04
+2025-01-27,12:15,Pain Management,Refill,64,5.0,Pending Prior Auth,RPH02
+2025-01-15,09:00,Pain Management,New,60,5.0,Approved,RPH03
+2025-01-29,16:30,Diabetes,Refill,10,25.0,Approved,RPH03
+2025-01-23,11:15,Cardiovascular,Refill,7,10.0,Approved,RPH02
+2025-01-14,08:45,Pain Management,Refill,28,5.0,Pending Prior Auth,RPH04
+2025-01-16,08:00,Pain Management,New,37,5.0,Approved,RPH04
+2025-01-16,11:30,Pain Management,Refill,32,5.0,Approved,RPH02
+2025-01-22,14:15,Antibiotics,Refill,10,10.0,Approved,RPH03
+2025-01-03,14:45,Antibiotics,Refill,9,10.0,Approved,RPH01
+2025-01-11,11:15,Antibiotics,Refill,19,15.0,Approved,RPH04
+2025-01-27,09:15,Diabetes,Refill,23,25.0,Approved,RPH03
+2025-01-21,09:00,Antibiotics,Refill,25,10.0,Approved,RPH02
+2025-01-20,10:15,Cardiovascular,New,12,0.0,Approved,RPH01
+2025-01-15,12:00,Pain Management,New,64,5.0,Approved,RPH02
+2025-01-04,17:15,Antibiotics,New,5,15.0,Rejected,RPH03
+2025-01-19,11:45,Pain Management,New,21,5.0,Pending Prior Auth,RPH01
+2025-01-12,16:30,Diabetes,New,21,25.0,Approved,RPH01
+2025-01-28,14:30,Antibiotics,Refill,20,15.0,Approved,RPH01
+2025-01-06,16:15,Pain Management,New,56,5.0,Approved,RPH04
+2025-01-27,17:15,Pain Management,Refill,32,5.0,Approved,RPH04
+2025-01-29,15:00,Cardiovascular,New,12,10.0,Approved,RPH03
+2025-01-16,13:00,Pain Management,Refill,26,5.0,Approved,RPH01
+2025-01-09,17:30,Diabetes,Refill,30,25.0,Rejected,RPH03
+2025-01-08,14:30,Antibiotics,New,20,10.0,Approved,RPH01
+2025-01-26,08:15,Pain Management,Refill,20,5.0,Approved,RPH04
+2025-01-22,17:15,Pain Management,New,38,5.0,Approved,RPH03
+2025-01-12,15:15,Diabetes,Refill,16,25.0,Approved,RPH03
+2025-01-11,09:45,Cardiovascular,New,28,0.0,Approved,RPH02
+2025-01-09,17:15,Cardiovascular,New,29,10.0,Approved,RPH04
+2025-01-08,13:45,Antibiotics,New,10,10.0,Approved,RPH03
+2025-01-18,12:30,Diabetes,New,30,25.0,Rejected,RPH01
+2025-01-19,12:30,Pain Management,New,45,5.0,Approved,RPH01
+2025-01-09,15:30,Diabetes,New,11,25.0,Approved,RPH01
+2025-01-19,08:45,Pain Management,Refill,24,5.0,Approved,RPH01
+2025-01-04,16:45,Diabetes,New,21,25.0,Approved,RPH02
+2025-01-30,15:00,Cardiovascular,Refill,14,10.0,Approved,RPH04
+2025-01-25,11:15,Diabetes,New,28,25.0,Approved,RPH01
+2025-01-06,16:45,Antibiotics,New,7,15.0,Approved,RPH02
+2025-01-02,11:30,Pain Management,Refill,33,5.0,Pending Prior Auth,RPH03
+2025-01-30,12:00,Pain Management,New,65,5.0,Pending Prior Auth,RPH02
+2025-01-18,11:30,Cardiovascular,Refill,25,0.0,Approved,RPH01
+2025-01-02,10:30,Diabetes,New,17,25.0,Approved,RPH01
+2025-01-15,12:45,Diabetes,Refill,30,25.0,Approved,RPH01
+2025-01-03,17:30,Diabetes,Refill,9,25.0,Rejected,RPH04
+2025-01-03,11:30,Diabetes,Refill,29,25.0,Approved,RPH01
+2025-01-25,10:45,Antibiotics,Refill,20,15.0,Approved,RPH01
+2025-01-21,15:45,Diabetes,New,10,25.0,Approved,RPH04
+2025-01-22,09:30,Pain Management,Refill,25,5.0,Approved,RPH03
+2025-01-27,16:45,Pain Management,Refill,17,5.0,Approved,RPH04
+2025-01-04,14:15,Diabetes,Refill,24,25.0,Approved,RPH03
+2025-01-02,11:00,Antibiotics,Refill,21,15.0,Approved,RPH04
+2025-01-09,16:45,Pain Management,New,23,5.0,Rejected,RPH02
+2025-01-01,17:30,Pain Management,Refill,30,5.0,Pending Prior Auth,RPH01
+2025-01-03,11:30,Diabetes,New,11,25.0,Approved,RPH04
+2025-01-30,12:30,Antibiotics,New,21,15.0,Approved,RPH04
+2025-01-15,16:45,Pain Management,Refill,24,5.0,Approved,RPH02
+2025-01-25,14:30,Cardiovascular,New,15,10.0,Approved,RPH03
+2025-01-27,17:15,Antibiotics,Refill,23,15.0,Rejected,RPH03
+2025-01-12,13:15,Cardiovascular,Refill,22,10.0,Approved,RPH04
+2025-01-23,11:45,Pain Management,Refill,51,5.0,Approved,RPH02
+2025-01-24,15:30,Pain Management,New,60,5.0,Rejected,RPH03
+2025-01-16,08:30,Pain Management,Refill,23,5.0,Pending Prior Auth,RPH02
+2025-01-04,16:15,Diabetes,New,22,25.0,Approved,RPH04
+2025-01-03,15:30,Cardiovascular,Refill,30,10.0,Approved,RPH02
+2025-01-28,13:15,Diabetes,Refill,29,25.0,Rejected,RPH01
+2025-01-28,16:30,Pain Management,Refill,17,5.0,Pending Prior Auth,RPH04
+2025-01-24,09:15,Cardiovascular,Refill,18,0.0,Approved,RPH02
+2025-01-23,12:45,Antibiotics,Refill,5,10.0,Approved,RPH02
+2025-01-14,10:15,Diabetes,Refill,15,25.0,Approved,RPH03
+2025-01-03,17:45,Cardiovascular,New,32,10.0,Approved,RPH02
+2025-01-08,15:15,Cardiovascular,Refill,25,10.0,Approved,RPH02
+2025-01-29,15:15,Pain Management,Refill,33,5.0,Pending Prior Auth,RPH01
+2025-01-12,17:15,Cardiovascular,New,14,10.0,Approved,RPH04
+2025-01-07,14:00,Diabetes,Refill,23,25.0,Approved,RPH03
+2025-01-23,12:30,Pain Management,Refill,16,5.0,Rejected,RPH03
+2025-01-19,08:45,Pain Management,Refill,53,5.0,Pending Prior Auth,RPH01
+2025-01-08,11:00,Diabetes,New,27,25.0,Approved,RPH03
+2025-01-10,15:00,Cardiovascular,New,6,10.0,Approved,RPH01
+2025-01-11,14:30,Cardiovascular,New,10,0.0,Approved,RPH03
+2025-01-27,10:30,Cardiovascular,Refill,13,10.0,Approved,RPH03
+2025-01-15,09:00,Diabetes,Refill,12,25.0,Approved,RPH01
+2025-01-03,14:15,Cardiovascular,Refill,5,10.0,Approved,RPH03
+2025-01-22,12:00,Antibiotics,Refill,23,15.0,Approved,RPH03
+2025-01-01,17:45,Antibiotics,New,22,10.0,Approved,RPH04
+2025-01-21,14:30,Antibiotics,Refill,8,10.0,Approved,RPH03
+2025-01-04,11:45,Diabetes,Refill,25,25.0,Approved,RPH01
+2025-01-19,10:15,Pain Management,Refill,41,5.0,Pending Prior Auth,RPH04
+2025-01-02,13:45,Pain Management,Refill,28,5.0,Approved,RPH03
+2025-01-22,13:45,Cardiovascular,Refill,22,10.0,Approved,RPH01
+2025-01-07,09:45,Antibiotics,Refill,19,10.0,Approved,RPH03
+2025-01-08,10:00,Antibiotics,New,23,10.0,Approved,RPH03
+2025-01-25,10:15,Cardiovascular,New,30,0.0,Approved,RPH03
+2025-01-18,12:00,Diabetes,New,13,25.0,Approved,RPH02
+2025-01-12,11:45,Antibiotics,New,23,10.0,Approved,RPH01
+2025-01-24,14:30,Diabetes,New,24,25.0,Approved,RPH02
+2025-01-25,13:45,Antibiotics,Refill,21,15.0,Approved,RPH04
+2025-01-15,08:15,Cardiovascular,New,6,10.0,Approved,RPH03
+2025-01-16,15:00,Pain Management,Refill,19,5.0,Rejected,RPH01
+2025-01-05,12:15,Diabetes,New,27,25.0,Approved,RPH01
+2025-01-15,16:00,Diabetes,Refill,27,25.0,Approved,RPH03
+2025-01-15,11:30,Antibiotics,New,18,15.0,Approved,RPH04
+2025-01-11,14:45,Pain Management,Refill,35,5.0,Pending Prior Auth,RPH01
+2025-01-03,09:15,Diabetes,New,10,25.0,Approved,RPH04
+2025-01-18,08:45,Antibiotics,Refill,23,15.0,Rejected,RPH02
+2025-01-28,14:45,Antibiotics,Refill,6,15.0,Rejected,RPH03
+2025-01-05,15:30,Diabetes,New,15,25.0,Approved,RPH02
+2025-01-25,12:15,Diabetes,Refill,26,25.0,Approved,RPH01
+2025-01-01,10:45,Pain Management,New,32,5.0,Pending Prior Auth,RPH03
+2025-01-01,10:45,Diabetes,Refill,12,25.0,Approved,RPH03
+2025-01-24,08:15,Pain Management,New,20,5.0,Pending Prior Auth,RPH02
+2025-01-15,13:15,Cardiovascular,Refill,10,10.0,Approved,RPH04
+2025-01-29,08:45,Diabetes,Refill,12,25.0,Approved,RPH01
+2025-01-15,14:45,Antibiotics,New,20,15.0,Approved,RPH03
+2025-01-12,14:45,Diabetes,New,11,25.0,Approved,RPH01
+2025-01-08,14:15,Pain Management,Refill,53,5.0,Approved,RPH01
+2025-01-25,10:00,Cardiovascular,Refill,29,10.0,Approved,RPH02
+2025-01-01,15:45,Diabetes,Refill,21,25.0,Approved,RPH01
+2025-01-03,14:15,Pain Management,New,62,5.0,Approved,RPH03
+2025-01-28,13:00,Antibiotics,Refill,23,15.0,Approved,RPH01
+2025-01-13,08:15,Pain Management,Refill,35,5.0,Approved,RPH01
+2025-01-14,09:30,Pain Management,Refill,30,5.0,Approved,RPH01
+2025-01-28,12:45,Pain Management,New,62,5.0,Approved,RPH04
+2025-01-17,09:45,Diabetes,New,24,25.0,Approved,RPH01
+2025-01-08,09:30,Diabetes,Refill,12,25.0,Approved,RPH02
+2025-01-06,15:45,Cardiovascular,New,19,10.0,Approved,RPH01
+2025-01-15,09:00,Diabetes,Refill,23,25.0,Approved,RPH02
+2025-01-12,16:00,Diabetes,Refill,10,25.0,Approved,RPH01
+2025-01-12,12:30,Pain Management,New,19,5.0,Pending Prior Auth,RPH01
+2025-01-19,16:45,Antibiotics,Refill,6,10.0,Approved,RPH04
+2025-01-02,15:00,Diabetes,Refill,11,25.0,Approved,RPH02
+2025-01-02,11:45,Diabetes,New,30,25.0,Approved,RPH02
+2025-01-12,12:30,Pain Management,New,39,5.0,Approved,RPH03
+2025-01-03,13:15,Diabetes,New,11,25.0,Approved,RPH03
+2025-01-24,17:30,Pain Management,Refill,24,5.0,Approved,RPH03
+2025-01-21,14:15,Cardiovascular,Refill,9,0.0,Approved,RPH03
+2025-01-27,10:00,Diabetes,Refill,29,25.0,Approved,RPH03
+2025-01-01,13:45,Antibiotics,Refill,14,10.0,Approved,RPH03
+2025-01-08,10:00,Diabetes,Refill,12,25.0,Approved,RPH02
+2025-01-29,17:45,Antibiotics,New,9,10.0,Approved,RPH03
+2025-01-24,15:00,Cardiovascular,New,6,10.0,Approved,RPH02
+2025-01-20,12:30,Diabetes,New,22,25.0,Approved,RPH04
+2025-01-29,11:00,Cardiovascular,Refill,16,10.0,Approved,RPH04
+2025-01-17,16:15,Pain Management,Refill,41,5.0,Rejected,RPH04
+2025-01-02,15:30,Cardiovascular,New,32,10.0,Approved,RPH03
+2025-01-03,10:30,Antibiotics,New,13,10.0,Approved,RPH03
+2025-01-27,15:00,Pain Management,New,37,5.0,Rejected,RPH02
+2025-01-17,13:45,Pain Management,New,30,5.0,Approved,RPH04
+2025-01-01,13:00,Antibiotics,Refill,8,15.0,Approved,RPH02
+2025-01-10,15:30,Cardiovascular,New,27,0.0,Approved,RPH01
+2025-01-29,09:15,Pain Management,Refill,16,5.0,Approved,RPH01
+2025-01-25,12:30,Cardiovascular,Refill,12,10.0,Approved,RPH01
+2025-01-14,17:45,Antibiotics,New,19,15.0,Approved,RPH02
+2025-01-10,14:45,Antibiotics,New,5,10.0,Approved,RPH02
+2025-01-17,13:45,Pain Management,New,19,5.0,Rejected,RPH01
+2025-01-02,14:00,Antibiotics,Refill,16,10.0,Approved,RPH04
+2025-01-08,09:30,Diabetes,New,26,25.0,Approved,RPH03
+2025-01-12,16:30,Diabetes,New,18,25.0,Approved,RPH01
+2025-01-21,10:45,Cardiovascular,Refill,30,0.0,Approved,RPH04
+2025-01-10,11:00,Antibiotics,Refill,6,10.0,Approved,RPH01
+2025-01-27,16:30,Diabetes,Refill,23,25.0,Approved,RPH04
+2025-01-28,08:45,Cardiovascular,Refill,32,10.0,Approved,RPH03
+2025-01-14,14:15,Diabetes,New,22,25.0,Rejected,RPH03
+2025-01-16,15:45,Pain Management,Refill,38,5.0,Rejected,RPH02
+2025-01-03,14:45,Diabetes,New,27,25.0,Rejected,RPH04
+2025-01-04,09:15,Cardiovascular,Refill,15,10.0,Approved,RPH03
+2025-01-06,15:00,Diabetes,Refill,19,25.0,Approved,RPH04
+2025-01-21,08:45,Diabetes,Refill,10,25.0,Approved,RPH03
+2025-01-01,10:15,Pain Management,Refill,53,5.0,Pending Prior Auth,RPH02
+2025-01-03,11:45,Pain Management,New,64,5.0,Pending Prior Auth,RPH02
+2025-01-20,10:15,Diabetes,Refill,29,25.0,Approved,RPH01
+2025-01-25,09:00,Diabetes,Refill,26,25.0,Approved,RPH04
+2025-01-21,12:15,Diabetes,Refill,15,25.0,Rejected,RPH03
+2025-01-17,14:00,Antibiotics,New,22,15.0,Approved,RPH04
+2025-01-23,15:45,Pain Management,New,27,5.0,Approved,RPH03
+2025-01-29,15:00,Antibiotics,Refill,7,15.0,Approved,RPH02
+2025-01-29,12:45,Diabetes,New,13,25.0,Approved,RPH03
+2025-01-04,11:00,Cardiovascular,Refill,30,0.0,Approved,RPH02
+2025-01-12,16:45,Cardiovascular,Refill,23,10.0,Approved,RPH01
+2025-01-03,12:45,Pain Management,New,40,5.0,Rejected,RPH01
+2025-01-27,17:00,Pain Management,Refill,19,5.0,Approved,RPH04
+2025-01-15,16:15,Diabetes,New,19,25.0,Approved,RPH04
+2025-01-17,08:45,Cardiovascular,New,31,0.0,Approved,RPH04
+2025-01-06,13:00,Cardiovascular,Refill,34,0.0,Approved,RPH02
+2025-01-09,11:00,Diabetes,Refill,28,25.0,Rejected,RPH01
+2025-01-20,16:30,Diabetes,New,10,25.0,Approved,RPH03
+2025-01-22,17:45,Cardiovascular,New,28,10.0,Approved,RPH02
+2025-01-02,17:00,Antibiotics,New,13,15.0,Approved,RPH01
+2025-01-21,12:45,Antibiotics,Refill,20,15.0,Approved,RPH03
+2025-01-23,08:45,Diabetes,Refill,13,25.0,Approved,RPH01
+2025-01-11,17:30,Pain Management,Refill,24,5.0,Approved,RPH02
+2025-01-05,13:45,Diabetes,Refill,24,25.0,Approved,RPH04
+2025-01-04,12:15,Diabetes,New,22,25.0,Approved,RPH04
+2025-01-13,17:45,Antibiotics,New,18,10.0,Approved,RPH03
+2025-01-25,10:30,Diabetes,Refill,23,25.0,Rejected,RPH02
+2025-01-16,08:15,Pain Management,Refill,20,5.0,Rejected,RPH03
+2025-01-19,13:30,Pain Management,New,18,5.0,Approved,RPH02
+2025-01-18,08:00,Pain Management,Refill,21,5.0,Approved,RPH03
+2025-01-12,08:30,Diabetes,Refill,20,25.0,Approved,RPH04
+2025-01-03,14:00,Cardiovascular,Refill,21,10.0,Approved,RPH03
+2025-01-04,14:15,Diabetes,New,19,25.0,Approved,RPH02
+2025-01-07,17:30,Diabetes,Refill,24,25.0,Approved,RPH02
+2025-01-05,13:15,Antibiotics,New,20,10.0,Approved,RPH01
+2025-01-06,14:15,Cardiovascular,Refill,24,10.0,Approved,RPH03
+2025-01-16,08:15,Diabetes,Refill,19,25.0,Approved,RPH03
+2025-01-26,08:15,Antibiotics,Refill,24,10.0,Approved,RPH03
+2025-01-17,17:45,Antibiotics,Refill,17,10.0,Approved,RPH02
+2025-01-01,15:00,Antibiotics,New,15,15.0,Approved,RPH02
+2025-01-28,08:45,Cardiovascular,Refill,27,0.0,Approved,RPH04
+2025-01-17,14:00,Cardiovascular,Refill,15,0.0,Approved,RPH04
+2025-01-22,12:00,Pain Management,Refill,54,5.0,Approved,RPH03
+2025-01-08,12:45,Cardiovascular,Refill,29,10.0,Approved,RPH03
+2025-01-16,13:30,Cardiovascular,Refill,22,10.0,Approved,RPH03
+2025-01-29,14:15,Diabetes,New,19,25.0,Rejected,RPH04
+2025-01-10,09:15,Cardiovascular,Refill,16,10.0,Approved,RPH01
+2025-01-07,16:30,Diabetes,Refill,16,25.0,Rejected,RPH02
+2025-01-20,17:15,Diabetes,New,15,25.0,Approved,RPH01
+2025-01-04,14:30,Cardiovascular,New,15,10.0,Approved,RPH01
+2025-01-18,10:30,Antibiotics,New,18,15.0,Approved,RPH01
+2025-01-11,12:30,Pain Management,New,56,5.0,Approved,RPH03
+2025-01-30,10:45,Antibiotics,New,18,10.0,Approved,RPH01
+2025-01-06,12:30,Antibiotics,Refill,6,10.0,Approved,RPH04
+2025-01-21,16:30,Diabetes,Refill,24,25.0,Approved,RPH04
+2025-01-07,09:45,Cardiovascular,Refill,15,0.0,Approved,RPH03
+2025-01-01,13:15,Pain Management,Refill,65,5.0,Approved,RPH02
+2025-01-27,14:45,Cardiovascular,New,21,10.0,Approved,RPH04
+2025-01-06,10:00,Antibiotics,Refill,20,10.0,Approved,RPH01
+2025-01-08,15:00,Antibiotics,Refill,13,15.0,Rejected,RPH04
+2025-01-23,11:45,Antibiotics,Refill,6,15.0,Approved,RPH03
+2025-01-22,16:00,Diabetes,New,30,25.0,Approved,RPH04
+2025-01-20,11:30,Antibiotics,Refill,12,15.0,Rejected,RPH03
+2025-01-14,16:45,Cardiovascular,Refill,34,10.0,Approved,RPH03
+2025-01-17,15:00,Cardiovascular,New,21,10.0,Approved,RPH01
+2025-01-27,16:45,Antibiotics,New,21,10.0,Approved,RPH01
+2025-01-04,11:15,Cardiovascular,Refill,27,10.0,Approved,RPH04
+2025-01-15,10:00,Antibiotics,Refill,21,10.0,Approved,RPH01
+2025-01-13,12:00,Pain Management,Refill,15,5.0,Pending Prior Auth,RPH01
+2025-01-12,09:00,Antibiotics,New,22,10.0,Rejected,RPH04
+2025-01-14,10:45,Pain Management,New,64,5.0,Approved,RPH03
+2025-01-15,14:00,Pain Management,Refill,39,5.0,Approved,RPH04
+2025-01-06,16:30,Cardiovascular,Refill,17,0.0,Approved,RPH01
+2025-01-10,15:15,Cardiovascular,New,26,10.0,Approved,RPH01
+2025-01-15,13:30,Pain Management,New,24,5.0,Approved,RPH02
+2025-01-20,08:15,Antibiotics,New,12,10.0,Approved,RPH04
+2025-01-08,08:30,Antibiotics,Refill,17,10.0,Approved,RPH01
+2025-01-08,17:00,Antibiotics,New,15,15.0,Approved,RPH03
+2025-01-22,16:15,Cardiovascular,Refill,12,10.0,Approved,RPH02
+2025-01-18,17:15,Diabetes,Refill,13,25.0,Approved,RPH01
+2025-01-12,14:00,Pain Management,Refill,65,5.0,Pending Prior Auth,RPH01
+2025-01-10,14:00,Pain Management,Refill,26,5.0,Pending Prior Auth,RPH02
+2025-01-10,10:15,Pain Management,New,44,5.0,Rejected,RPH02
+2025-01-13,11:45,Pain Management,Refill,31,5.0,Approved,RPH02
+2025-01-03,16:30,Antibiotics,Refill,11,15.0,Approved,RPH03
+2025-01-26,17:15,Antibiotics,New,22,10.0,Approved,RPH02
+2025-01-07,11:00,Diabetes,Refill,11,25.0,Approved,RPH01
+2025-01-13,11:45,Pain Management,New,50,5.0,Approved,RPH02
+2025-01-18,13:30,Diabetes,Refill,17,25.0,Approved,RPH04
+2025-01-26,15:30,Pain Management,Refill,63,5.0,Pending Prior Auth,RPH01
+2025-01-14,08:30,Cardiovascular,Refill,23,0.0,Approved,RPH03
+2025-01-18,17:15,Cardiovascular,New,23,10.0,Approved,RPH03
+2025-01-11,11:30,Diabetes,New,20,25.0,Approved,RPH02
+2025-01-09,15:45,Cardiovascular,Refill,35,10.0,Approved,RPH03
+2025-01-06,10:00,Pain Management,New,61,5.0,Pending Prior Auth,RPH03
+2025-01-27,09:00,Cardiovascular,New,35,0.0,Approved,RPH01
+2025-01-27,11:30,Antibiotics,Refill,7,10.0,Approved,RPH02
+2025-01-02,17:45,Cardiovascular,Refill,25,10.0,Approved,RPH03
+2025-01-18,16:45,Pain Management,New,41,5.0,Approved,RPH01
+2025-01-17,14:45,Diabetes,Refill,13,25.0,Approved,RPH01
+2025-01-07,17:45,Antibiotics,New,21,15.0,Approved,RPH02
+2025-01-12,14:15,Diabetes,Refill,22,25.0,Approved,RPH01
+2025-01-21,08:30,Cardiovascular,Refill,7,10.0,Approved,RPH01
+2025-01-02,08:00,Pain Management,Refill,59,5.0,Approved,RPH04
+2025-01-19,09:30,Pain Management,Refill,48,5.0,Rejected,RPH03
+2025-01-09,08:30,Cardiovascular,New,34,0.0,Approved,RPH04
+2025-01-30,13:00,Diabetes,New,8,25.0,Rejected,RPH02
+2025-01-10,10:30,Cardiovascular,Refill,23,0.0,Approved,RPH01
+2025-01-25,10:00,Pain Management,Refill,65,5.0,Rejected,RPH04
+2025-01-04,14:45,Antibiotics,Refill,12,15.0,Approved,RPH01
+2025-01-21,12:15,Pain Management,Refill,65,5.0,Rejected,RPH01
+2025-01-18,14:00,Pain Management,New,42,5.0,Approved,RPH03
+2025-01-26,11:45,Pain Management,New,60,5.0,Approved,RPH03
+2025-01-23,10:15,Diabetes,New,20,25.0,Approved,RPH04
+2025-01-10,15:00,Antibiotics,New,16,10.0,Approved,RPH01
+2025-01-14,15:00,Cardiovascular,New,22,10.0,Approved,RPH02
+2025-01-12,16:45,Antibiotics,New,7,15.0,Approved,RPH01
+2025-01-14,14:00,Pain Management,New,64,5.0,Approved,RPH03
+2025-01-06,10:00,Cardiovascular,New,13,10.0,Approved,RPH04
+2025-01-03,10:30,Diabetes,Refill,21,25.0,Approved,RPH02
+2025-01-12,12:00,Diabetes,Refill,15,25.0,Approved,RPH01
+2025-01-04,10:00,Pain Management,New,34,5.0,Approved,RPH04
+2025-01-26,13:15,Pain Management,Refill,43,5.0,Approved,RPH04
+2025-01-20,11:00,Cardiovascular,Refill,20,10.0,Approved,RPH03
+2025-01-10,15:45,Cardiovascular,Refill,35,0.0,Approved,RPH03
+2025-01-27,14:15,Diabetes,Refill,19,25.0,Approved,RPH03
+2025-01-24,15:15,Cardiovascular,New,35,0.0,Approved,RPH01
+2025-01-27,14:30,Pain Management,Refill,58,5.0,Approved,RPH01
+2025-01-22,10:15,Diabetes,New,30,25.0,Approved,RPH03
+2025-01-20,15:30,Pain Management,New,52,5.0,Approved,RPH04
+2025-01-23,16:30,Pain Management,New,53,5.0,Pending Prior Auth,RPH03
+2025-01-22,13:30,Antibiotics,New,10,10.0,Approved,RPH02
+2025-01-04,08:00,Pain Management,Refill,21,5.0,Approved,RPH04
+2025-01-13,15:15,Cardiovascular,Refill,29,0.0,Approved,RPH03
+2025-01-04,12:30,Diabetes,New,21,25.0,Rejected,RPH04
+2025-01-12,12:45,Antibiotics,New,15,10.0,Approved,RPH02
+2025-01-04,15:00,Pain Management,Refill,61,5.0,Pending Prior Auth,RPH04
+2025-01-02,09:45,Diabetes,New,8,25.0,Approved,RPH03
+2025-01-17,10:45,Antibiotics,New,22,15.0,Approved,RPH02
+2025-01-21,10:45,Pain Management,New,26,5.0,Pending Prior Auth,RPH04
+2025-01-24,17:45,Pain Management,Refill,27,5.0,Approved,RPH01
+2025-01-23,11:15,Pain Management,Refill,28,5.0,Approved,RPH01
+2025-01-12,13:00,Antibiotics,New,11,15.0,Approved,RPH02
+2025-01-20,14:15,Pain Management,Refill,52,5.0,Approved,RPH04
+2025-01-27,12:45,Diabetes,Refill,27,25.0,Approved,RPH02
+2025-01-08,12:45,Cardiovascular,Refill,8,0.0,Approved,RPH01
+2025-01-14,17:30,Diabetes,New,12,25.0,Approved,RPH04
+2025-01-21,16:30,Pain Management,New,59,5.0,Rejected,RPH04
+2025-01-10,10:00,Cardiovascular,New,10,10.0,Approved,RPH04
+2025-01-01,15:45,Pain Management,New,23,5.0,Approved,RPH03
+2025-01-22,15:45,Pain Management,Refill,41,5.0,Pending Prior Auth,RPH04
+2025-01-03,17:00,Pain Management,Refill,16,5.0,Pending Prior Auth,RPH02
+2025-01-09,11:30,Cardiovascular,Refill,22,10.0,Approved,RPH01
+2025-01-18,16:00,Cardiovascular,Refill,8,0.0,Approved,RPH04
+2025-01-25,15:00,Diabetes,Refill,25,25.0,Approved,RPH01
+2025-01-10,08:30,Pain Management,New,43,5.0,Approved,RPH02
+2025-01-25,11:45,Antibiotics,Refill,11,15.0,Approved,RPH01
+2025-01-26,11:15,Pain Management,New,28,5.0,Pending Prior Auth,RPH02
+2025-01-11,12:30,Diabetes,Refill,17,25.0,Approved,RPH02
+2025-01-30,08:45,Antibiotics,New,13,10.0,Approved,RPH04
+2025-01-23,13:00,Cardiovascular,New,31,0.0,Approved,RPH02
+2025-01-19,12:15,Pain Management,Refill,55,5.0,Approved,RPH02
+2025-01-13,16:00,Pain Management,New,62,5.0,Approved,RPH01
+2025-01-11,17:15,Diabetes,Refill,8,25.0,Rejected,RPH04
+2025-01-28,09:00,Antibiotics,Refill,22,15.0,Approved,RPH03
+2025-01-11,12:30,Cardiovascular,Refill,15,0.0,Approved,RPH03
+2025-01-02,09:30,Pain Management,Refill,55,5.0,Pending Prior Auth,RPH01
+2025-01-30,10:30,Pain Management,New,43,5.0,Approved,RPH01
+2025-01-29,12:45,Pain Management,New,25,5.0,Rejected,RPH02
+2025-01-09,09:15,Diabetes,New,19,25.0,Approved,RPH03
+2025-01-21,12:45,Cardiovascular,New,28,0.0,Approved,RPH04
+2025-01-01,11:15,Pain Management,New,45,5.0,Approved,RPH01
+2025-01-01,13:15,Cardiovascular,Refill,31,0.0,Approved,RPH01
+2025-01-03,11:30,Pain Management,New,39,5.0,Approved,RPH04
+2025-01-12,12:45,Antibiotics,New,9,10.0,Approved,RPH03
+2025-01-20,10:30,Cardiovascular,New,19,10.0,Approved,RPH01
+2025-01-20,15:00,Cardiovascular,New,32,0.0,Approved,RPH04
+2025-01-25,09:45,Antibiotics,New,23,15.0,Approved,RPH02
+2025-01-08,12:15,Pain Management,Refill,56,5.0,Approved,RPH02
+2025-01-07,16:15,Diabetes,New,27,25.0,Approved,RPH03
+2025-01-26,11:45,Pain Management,Refill,46,5.0,Approved,RPH01
+2025-01-17,08:00,Cardiovascular,Refill,16,10.0,Approved,RPH01
+2025-01-12,16:30,Cardiovascular,Refill,26,0.0,Approved,RPH04
+2025-01-19,09:00,Pain Management,New,15,5.0,Approved,RPH01
+2025-01-17,12:30,Antibiotics,New,25,15.0,Approved,RPH04
+2025-01-21,16:30,Pain Management,Refill,49,5.0,Pending Prior Auth,RPH01
+2025-01-03,16:00,Diabetes,New,14,25.0,Rejected,RPH03
+2025-01-19,09:00,Cardiovascular,Refill,14,10.0,Approved,RPH04
+2025-01-03,14:45,Cardiovascular,New,8,10.0,Approved,RPH02
+2025-01-04,08:00,Antibiotics,Refill,9,10.0,Approved,RPH02
+2025-01-06,13:45,Pain Management,Refill,23,5.0,Pending Prior Auth,RPH03
+2025-01-11,14:45,Diabetes,New,16,25.0,Approved,RPH01
+2025-01-15,16:00,Diabetes,New,19,25.0,Approved,RPH04
+2025-01-09,09:30,Cardiovascular,Refill,33,0.0,Approved,RPH02
+2025-01-28,08:00,Cardiovascular,New,12,0.0,Approved,RPH01
+2025-01-30,10:15,Pain Management,Refill,26,5.0,Rejected,RPH04
+2025-01-11,11:45,Antibiotics,Refill,18,15.0,Rejected,RPH02
+2025-01-04,16:00,Diabetes,New,29,25.0,Rejected,RPH03
+2025-01-13,09:00,Cardiovascular,New,33,10.0,Approved,RPH01
+2025-01-03,16:45,Diabetes,Refill,22,25.0,Approved,RPH03
+2025-01-24,17:45,Cardiovascular,Refill,12,10.0,Approved,RPH03
+2025-01-24,16:30,Diabetes,Refill,15,25.0,Approved,RPH02
+2025-01-18,13:30,Pain Management,New,55,5.0,Pending Prior Auth,RPH02
+2025-01-25,14:00,Antibiotics,Refill,14,10.0,Approved,RPH01
+2025-01-05,12:15,Pain Management,Refill,20,5.0,Approved,RPH01
+2025-01-15,09:15,Cardiovascular,Refill,23,0.0,Approved,RPH03
+2025-01-19,17:00,Cardiovascular,Refill,6,10.0,Approved,RPH01
+2025-01-09,13:00,Cardiovascular,New,34,10.0,Approved,RPH03
+2025-01-09,11:30,Diabetes,Refill,10,25.0,Rejected,RPH04
+2025-01-04,10:30,Cardiovascular,New,19,10.0,Approved,RPH02
+2025-01-18,13:30,Diabetes,Refill,14,25.0,Approved,RPH01
+2025-01-03,10:30,Pain Management,Refill,58,5.0,Approved,RPH01
+2025-01-05,09:15,Antibiotics,New,12,15.0,Rejected,RPH03
+2025-01-27,10:45,Antibiotics,Refill,5,15.0,Rejected,RPH03
+2025-01-04,10:00,Cardiovascular,New,8,0.0,Approved,RPH04
+2025-01-07,14:15,Antibiotics,New,16,10.0,Approved,RPH02
+2025-01-03,11:00,Diabetes,New,28,25.0,Approved,RPH01
+2025-01-04,08:30,Cardiovascular,New,35,10.0,Approved,RPH03
+2025-01-27,14:15,Antibiotics,New,20,15.0,Approved,RPH04
+2025-01-30,10:45,Cardiovascular,Refill,13,10.0,Approved,RPH02
+2025-01-20,17:45,Pain Management,New,54,5.0,Approved,RPH01
+2025-01-29,16:45,Diabetes,Refill,23,25.0,Approved,RPH04
+2025-01-14,11:00,Diabetes,Refill,28,25.0,Rejected,RPH02
+2025-01-26,13:30,Cardiovascular,New,20,10.0,Approved,RPH04
+2025-01-09,10:45,Diabetes,Refill,8,25.0,Approved,RPH04
+2025-01-02,15:30,Cardiovascular,New,21,10.0,Approved,RPH03
+2025-01-08,11:45,Cardiovascular,New,13,0.0,Approved,RPH01
+2025-01-30,10:45,Cardiovascular,Refill,10,0.0,Approved,RPH03
+2025-01-23,13:30,Diabetes,Refill,26,25.0,Approved,RPH01
+2025-01-06,15:45,Cardiovascular,Refill,6,0.0,Approved,RPH03
+2025-01-01,16:15,Antibiotics,New,20,10.0,Approved,RPH02
+2025-01-30,13:00,Cardiovascular,Refill,6,0.0,Approved,RPH02
+2025-01-28,16:15,Cardiovascular,New,32,10.0,Approved,RPH01
+2025-01-19,09:30,Antibiotics,Refill,15,10.0,Approved,RPH04
+2025-01-21,13:00,Cardiovascular,Refill,10,10.0,Approved,RPH04
+2025-01-10,12:30,Cardiovascular,New,9,0.0,Approved,RPH04
+2025-01-06,17:30,Antibiotics,Refill,15,10.0,Rejected,RPH01
+2025-01-11,09:00,Antibiotics,Refill,12,15.0,Approved,RPH02
+2025-01-15,08:00,Cardiovascular,New,13,0.0,Approved,RPH03
+2025-01-09,09:30,Cardiovascular,New,28,0.0,Approved,RPH03
+2025-01-24,14:30,Antibiotics,Refill,10,15.0,Approved,RPH04
+2025-01-04,15:30,Pain Management,Refill,65,5.0,Rejected,RPH04
+2025-01-03,08:30,Cardiovascular,New,14,0.0,Approved,RPH04
+2025-01-03,13:15,Diabetes,Refill,13,25.0,Rejected,RPH01
+2025-01-11,17:30,Cardiovascular,New,24,10.0,Approved,RPH01
+2025-01-20,14:45,Antibiotics,Refill,10,15.0,Approved,RPH02
+2025-01-23,16:45,Cardiovascular,New,28,10.0,Approved,RPH04
+2025-01-04,08:45,Diabetes,Refill,20,25.0,Approved,RPH02
+2025-01-12,08:00,Pain Management,New,42,5.0,Approved,RPH01
+2025-01-01,11:15,Pain Management,New,25,5.0,Pending Prior Auth,RPH01
+2025-01-10,14:15,Antibiotics,Refill,20,15.0,Approved,RPH01
+2025-01-12,14:00,Antibiotics,Refill,16,10.0,Approved,RPH02
+2025-01-09,11:30,Diabetes,Refill,16,25.0,Approved,RPH04
+2025-01-22,13:30,Cardiovascular,New,30,10.0,Approved,RPH01
+2025-01-27,16:15,Cardiovascular,New,18,10.0,Approved,RPH04
+2025-01-03,14:15,Cardiovascular,Refill,33,0.0,Approved,RPH03
+2025-01-06,10:30,Cardiovascular,New,11,0.0,Approved,RPH04
+2025-01-03,14:45,Cardiovascular,New,11,0.0,Approved,RPH04
+2025-01-03,14:00,Diabetes,Refill,25,25.0,Approved,RPH01
+2025-01-30,08:00,Diabetes,Refill,30,25.0,Approved,RPH04
+2025-01-05,10:15,Pain Management,New,51,5.0,Pending Prior Auth,RPH04
+2025-01-26,12:30,Antibiotics,New,22,15.0,Approved,RPH01
